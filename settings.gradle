@@ -1,1 +1,2 @@
-rootProject.name = 'spock-api-automation-restassured'
+rootProject.name = 'spock-api-ui-automation-with-geb-restassured-template'
+include 'api', 'ui'
